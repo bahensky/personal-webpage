@@ -1,4 +1,9 @@
 theme: jekyll-theme-minimal
 
+title: Robert Bahensky | Personal Webpage
+description: The personal webpage and portfolio of Robert Bahensky.
+
+google_analytics: UA-180649359-1
+
 plugins:
   - jemoji
