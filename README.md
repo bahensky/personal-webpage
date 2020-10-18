@@ -1,4 +1,6 @@
-# personal-webpage
-A personal portfolio and webpage.
+# Thanks for visiting!
+This is my personal portfolio and online webpage.
 
-Hi! I'm Robert.
+Here's a picture of me with my girlfriend!
+
+
