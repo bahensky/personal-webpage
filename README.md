@@ -1,7 +1,7 @@
 # Thanks for visiting!
 This is my personal portfolio and online webpage.
 
-For reference, the current link is: [`www.bahensky.com`](https://www.bahensky.com)
+For reference, there is an About Me page at: [`click here`](about.md)
 
 Here's a picture of me with my girlfriend! :smiley:
 
