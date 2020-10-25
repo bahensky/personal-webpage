@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
 permalink: /about/
 ---
 
-This is a test page.
+## This is a test page.
+
+It is written in Markdown.
