@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Test page
+This is a test page.
