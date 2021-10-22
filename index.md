@@ -1,12 +1,7 @@
-# Thanks for visiting!
-This is my personal portfolio and online webpage.
+Hi! Thanks for stopping by! I'm really glad to meet you! :)
 
-There is an About Me page at: [`click here`](about.md)
+I'm Robert, an engineering student and aspiring researcher.
 
-Here's a picture of me with my girlfriend! :smiley:
+This website is currently a work-in-progress, so it's not quite done yet. But if you have any questions for me (or just want to chat), I'd be thrilled if you [sent me an e-mail](mailto:bahensky.robert@gmail.com "send Robert an e-mail")!
 
-![Rob_Janai](Rob_Janai.jpg)
-
-Enjoy!
-
-*- Robert*
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=UGZdTm8AAAAJ&hl=en&oi=ao "Robert Bahensky on Google Scholar").
