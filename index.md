@@ -11,6 +11,6 @@ This website is currently a work-in-progress, so it's not quite done yet. But if
 
 ### 2021
 * Kalra, M., **Bahensky, R.**, McLachlin, S., Cronin, D. and Chandrashekar, N., 2021. In-situ fracture tolerance of the metatarsals during quasi-static compressive loading of the human foot. _Journal of Biomechanical Engineering_.
-* Bakker, R., Kalra, M., Tomescu, S.S., **Bahensky, R.** and Chandrashekar, N., 2021. The effects of pistol grip power tools on median nerve pressure and tendon strains. _International Journal of Occupational Safety and Ergonomics_, pp.1-7.
+* [[View]](/publications/bakker2021.pdf) Bakker, R., Kalra, M., Tomescu, S.S., **Bahensky, R.** and Chandrashekar, N., 2021. The effects of pistol grip power tools on median nerve pressure and tendon strains. _International Journal of Occupational Safety and Ergonomics_, pp.1-7.
 
 You can also find me on [Google Scholar](https://scholar.google.com/citations?user=UGZdTm8AAAAJ&hl=en&oi=ao "Robert Bahensky on Google Scholar").
